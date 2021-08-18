@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/",
+      "handler": "external-media.index",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
