@@ -1,0 +1,27 @@
+{
+  "name": "strapi-plugin-external-media",
+  "version": "0.1.0",
+  "description": "Allow adding media externally for https://strapi.io",
+  "keywords": [
+    "strapi",
+    "plugin",
+    "media"
+  ],
+  "homepage": "https://github.com/JH0project/strapi-plugin-external-media#readme",
+  "bugs": {
+    "url": "https://github.com/JH0project/strapi-plugin-external-media/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "JH0",
+    "email": "heiheiho000@gmail.com",
+    "url": "https://jh0project.ddns.net"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JH0project/strapi-plugin-external-media.git"
+  }
+}
