@@ -1,2 +1,2 @@
 # strapi-plugin-external-media
-Allow adding adding media externally for https://strapi.io
+Allow adding media externally for https://strapi.io
